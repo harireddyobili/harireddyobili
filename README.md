@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently gradute student at **Stevens Institute of Technology**
 
-- 🌱 I’m currently learning **Web Programming, Agile, Cloud Computing, Data Structures & Alogorithms**
+- 🌱 **Web Programming, Agile, Cloud Computing, Data Structures & Alogorithms**
 
 - 👨‍💻 All of my projects are available in my GITHUB repos
 
