@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oharireddy@gmail.com**
 
-- ⚡ Fun fact **I Like Watching Movies, Listening Music and Dogs**
+- ⚡ Fun fact **I Like playing cricket, playing chess, F.R.E.I.N.D.S Fan**
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/harireddyobili/">
   <img align = "left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
