@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, HTML, CSS, Bootstrap, Node.js, Java, Data Structures, REST API, Mongo DB**
 
-- 📫 How to reach me **vpenugon@stevens.edu**
+- 📫 How to reach me **oharireddy@gmail.com**
 
 - ⚡ Fun fact **I Like Watching Movies, Listening Music and Dogs**
 <h3 align="left">Connect with me:</h3>
