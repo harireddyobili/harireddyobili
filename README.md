@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available in my GITHUB repos
 
-- 💬 Ask me about **Javascript, HTML, CSS, Bootstrap, Node.js, Java, Data Structures, REST API, Mongo DB**
+- 💬 Ask me about **Javascript, Java, Python, HTML, CSS, Bootstrap, Node.js, Java, Data Structures, REST API, Mongo DB**
 
 - 📫 How to reach me **oharireddy@gmail.com**
 
