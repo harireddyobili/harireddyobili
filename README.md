@@ -1,7 +1,7 @@
 ## <h1 align="center"> Hey 👋, I'm Hari Reddy Obili! </h1>
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
-- 🔭 graduted  at **Stevens Institute of Technology(computer Science)**
+- 🔭 Graduted  at **Stevens Institute of Technology(computer Science)**
 
 - 🌱 **Web Programming, Agile, Cloud Computing, Data Structures & Alogorithms**
 
