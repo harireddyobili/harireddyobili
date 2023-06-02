@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oharireddy@gmail.com**
 
--leetcode myway **https://leetcode.com/obiliharireddy/**
+- leetcode myway **https://leetcode.com/obiliharireddy/**
 
 - ⚡ Fun fact **I Like playing cricket, playing chess, F.R.I.E.N.D.S Fan**
 <h3 align="left">Connect with me:</h3>
