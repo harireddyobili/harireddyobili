@@ -3,7 +3,7 @@
 
 - 🔭 Graduted  at **Stevens Institute of Technology(computer Science)**
 
-- 🌱 **Web Programming, Agile, Cloud Computing, Data Structures & Alogorithms**
+- 🌱 **Web Programming, Agile, Cloud Computing, Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available in my GITHUB repos
 
