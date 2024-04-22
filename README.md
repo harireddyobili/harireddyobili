@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Javascript, Java, Python, HTML, CSS, Bootstrap, Node.js, Java, Data Structures, REST API, Mongo DB**
 
-- 📫 How to reach me **oharireddy@gmail.com**
-
 - leetcode myway **https://leetcode.com/obiliharireddy/**
 
 - ⚡ Fun fact **I Like playing cricket, playing chess, F.R.I.E.N.D.S Fan**
